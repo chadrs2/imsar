@@ -1,0 +1,2 @@
+chain_based_planning_basic
+-DCATKIN_DEVEL_PREFIX=/home/chad/imsar/devel -DCMAKE_INSTALL_PREFIX=/home/chad/imsar/install -G Unix Makefiles

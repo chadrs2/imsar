@@ -1,0 +1,8 @@
+prefix=/home/chad/imsar/devel
+
+Name: chain_based_planning_basic
+Description: Description of chain_based_planning_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
